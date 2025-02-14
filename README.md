@@ -1,5 +1,5 @@
 # README.md
-<h2 align="left">Hi 👋! I´m Brown ... and I'm a Graphic Designer, Programmer ..., from Bronx NY....</h2>
+<h2 align="left">Hi 👋! I´m Brown and I'm a Graphic Designer, Programmer ..., from Bronx NY </h2>
 
 ###
 
